@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently studying a PhD in engineering sciences at Tecnológico Nacional de México / Instituto Tecnológico de Morelia.
+- 🌱 My research is focused on power quality disturbance detection through AI and digital signal processing techniques.
+- 📫 How to reach me: D17121124@morelia.tecnm.mx
+
 <!--
 **JonatanMolina1925/JonatanMolina1925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
