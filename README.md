@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently studying a PhD in engineering sciences at Tecnológico Nacional de México / Instituto Tecnológico de Morelia.
-- 🌱 My research is focused on power quality disturbance detection through AI and digital signal processing techniques.
+- 🌱 My research is focused on power quality disturbances classification through AI and digital signal processing techniques.
 - 📫 How to reach me: D17121124@morelia.tecnm.mx
 
 <!--
